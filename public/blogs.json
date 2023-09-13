@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/fMPS3gf/Rectangle-1-1.png",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": {
+        "name": "Mr Raju",
+        "image": "https://i.ibb.co/F3kqLrq/Ellipse-1.png"
+      },
+      "postedDate": "Mar 14 (4 Days ago)",
+      "readingTime": 7 ,
+      "hashtags": ["#Biggner", "#Programmer"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/VWhmLq6/Rectangle-1-2.png",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": {
+        "name": "Mrs. Setara",
+        "image": "https://i.ibb.co/nQ5Qx87/Ellipse-1-1.png"
+      },
+      "postedDate": "Mar 14 (4 Days ago)",
+      "readingTime": 10 ,
+      "hashtags": ["#Biggner", "#Programmer"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/8NvBVXc/Rectangle-1-3.png",
+      "title": "Delicious Recipes from Around the World",
+      "author": {
+        "name": "Mina Mostofa",
+        "image": "https://i.ibb.co/tDY8f09/Ellipse-1-2.png"
+      },
+      "postedDate": "Mar 14 (4 Days ago)",
+      "readingTime": 6 ,
+      "hashtags": ["#Biggner", "#Programmer"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/fMPS3gf/Rectangle-1-1.png",
+      "title": "Coding Tips for Beginners",
+      "author": {
+        "name": "James Wilson",
+        "image": "https://i.ibb.co/tDY8f09/Ellipse-1.png"
+      },
+      "postedDate": "Mar 14 (4 Days ago)",
+      "readingTime": 8,
+      "hashtags": ["#Programming", "#Coding", "#Technology"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/fMPS3gf/Rectangle-1-2.png",
+      "title": "Travel Adventures: Exploring New Horizons",
+      "author": {
+        "name": "Sophia Lee",
+        "image": "https://i.ibb.co/tDY8f09/Ellipse-1-2.png"
+      },
+      "postedDate": "Mar 14 (4 Days ago)",
+      "readingTime": 9,
+      "hashtags": ["#Travel", "#Adventure", "#Explore"]
+    }
+  ]
+  
